@@ -1,4 +1,11 @@
-# math-116
-Repo with files for UCLA Cryptology Class Math 116
+# swift-cryptos
 
-Homework 6, 10 March - **FastPoweringAlg.swift** - Method for Fast powering algorithm to calculate large powers.
+This repo contains files for implementing cryptology methods in Swift.
+
+## FastPoweringAlgorithm.swift
+This file implements the FPA, a method for quickly computing numbers in Mod n, and increases memory efficiency.
+
+To be Uploaded:
+
+RosSA - A simple (fun) RSA interface for MacOS
+
